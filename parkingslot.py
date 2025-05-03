@@ -10,7 +10,7 @@ import time
 st.title("🚗 Parking Slot Detection App")
 
 # Upload video
-uploaded_file = st.file_uploader("parking1.mp4", type=['mp4'])
+uploaded_file = st.file_uploader("Upload Parking Video", type=['mp4'])
 
 if uploaded_file is not None:
     # Save the uploaded file temporarily
