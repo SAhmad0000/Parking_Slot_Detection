@@ -1,4 +1,6 @@
 streamlit
 opencv-python-headless
-ultralytics
 Pillow
+numpy
+ultralytics
+--extra-index-url https://pypi.org/simple
